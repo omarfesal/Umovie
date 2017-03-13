@@ -1,0 +1,24 @@
+<resources>
+    <!--main actvity name-->
+    <string name="app_name">UMovie</string>
+
+    <!-- setting menu & actvity setting name -->
+    <string name="setting">setting</string>
+
+    <!--detail actvity name -->
+    <string name="detail">detail</string>
+
+    <!-- setting prefrence strings -->
+    <!--default value-->
+    <string name="defaultvalue">top_rated</string>
+
+    <!--label of choose type of sort -->
+    <string name="label">sort movie by</string>
+
+    <string name="key">movie sort</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>

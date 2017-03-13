@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_generic_values">
+        <item >popular</item>
+        <item>top rated</item>
+        <item>favorite</item>
+    </string-array>
+    <string-array name="pref_generic_options">
+        <item >popular</item>
+        <item>top_rated</item>
+        <item>favorite</item>
+    </string-array>
+</resources>

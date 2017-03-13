@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory
+        android:key="pref_key_movie_settings"
+        android:title="Movie Setting">
+        <ListPreference
+            android:defaultValue="@string/defaultvalue"
+            android:entries="@array/pref_generic_values"
+            android:entryValues="@array/pref_generic_options"
+            android:key="@string/key"
+            android:title="@string/label" />
+    </PreferenceCategory>
+
+
+
+
+</PreferenceScreen>
